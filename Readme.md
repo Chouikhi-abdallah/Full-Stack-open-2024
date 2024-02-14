@@ -16,9 +16,20 @@ If you're also participating in the Full Stack Open course and would like to exp
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/full-stack-open-solutions.git
+   git clone https://github.com/Chouikhi-abdallah/Full-Stack-open-2024.git
 Explore the Solutions:
 Inside each part, you'll find folders for exercises and projects. Explore the code and documentation to understand the solutions.
 
-# Contributing
+## Contributing
+
 If you have suggestions for improvements or alternative solutions, feel free to open an issue or submit a pull request. Contributions are welcome! Please make sure to follow the code of conduct.
+
+## Code of Conduct
+
+Please make sure to follow the project's code of conduct. Treat everyone with respect and kindness, fostering a welcoming and inclusive community.
+
+## Questions and Assistance
+
+If you have any questions or need assistance with the contribution process, please reach out. We're here to help!
+
+Thank you for contributing to the Full Stack Open Solutions!
