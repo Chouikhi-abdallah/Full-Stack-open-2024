@@ -1,1 +1,3 @@
-GET http://localhost:3001/api/persons
+### Test GET /todo
+GET http://localhost:5000/todo
+Content-Type: application/json
